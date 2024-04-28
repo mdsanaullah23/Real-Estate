@@ -17,6 +17,10 @@ Welcome to our Real Estate Website! This project is a frontend application desig
 - **Tailwind CSS:** Utility-first CSS framework for styling components with ease.
 - **CSS:** Additional custom CSS styles for enhancing the appearance and functionality.
 
+## Deployment
+
+This website is deployed on Netlify. You can access the live version (https://662dfa4d6f5eac7a1288b917--harmonious-toffee-fa8214.netlify.app/)
+
 ## Installation
 
 1. **Clone the repository:**
@@ -37,9 +41,6 @@ Welcome to our Real Estate Website! This project is a frontend application desig
 
 3. **Explore the property listings, search for properties, and interact with the website's features.**
 
-## Deployment
-
-This website is deployed on Netlify. You can access the live version (https://662dfa4d6f5eac7a1288b917--harmonious-toffee-fa8214.netlify.app/)
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to the project, please follow these steps:
