@@ -39,8 +39,7 @@ Welcome to our Real Estate Website! This project is a frontend application desig
 
 ## Deployment
 
-This website is deployed on Netlify. You can access the live version [here]([https://your-netlify-domain.com](https://662dfa4d6f5eac7a1288b917--harmonious-toffee-fa8214.netlify.app/)).
-
+This website is deployed on Netlify. You can access the live version (https://662dfa4d6f5eac7a1288b917--harmonious-toffee-fa8214.netlify.app/)
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to the project, please follow these steps:
