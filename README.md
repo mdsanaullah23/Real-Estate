@@ -21,8 +21,6 @@ Welcome to our Real Estate Website! This project is a frontend application desig
 
 1. **Clone the repository:**
 
-git clone https://github.com/your-username/real-estate-website.git
-
 
 2. **Navigate to the project directory:**
 
@@ -38,6 +36,10 @@ git clone https://github.com/your-username/real-estate-website.git
 2. **Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view the website.**
 
 3. **Explore the property listings, search for properties, and interact with the website's features.**
+
+## Deployment
+
+This website is deployed on Netlify. You can access the live version [here]([https://your-netlify-domain.com](https://662dfa4d6f5eac7a1288b917--harmonious-toffee-fa8214.netlify.app/)).
 
 ## Contributing
 
